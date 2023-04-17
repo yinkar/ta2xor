@@ -1,0 +1,4 @@
+baseURL = 'https://yinkar.github.io/ta2xor'
+languageCode = 'tr-tr'
+title = 'TA2XOR'
+theme = 'terminal'
